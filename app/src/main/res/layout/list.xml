@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/adminId"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+    <TextView
+        android:id="@+id/MobileNo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+    <TextView
+        android:id="@+id/adminname"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/imageName"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/shop_status"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/shopTime1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/shopTime2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/latitude"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+
+    <TextView
+        android:id="@+id/longitude"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>
